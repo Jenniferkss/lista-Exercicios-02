@@ -10,5 +10,5 @@ let menuNavegacao = [
     "Login",
     "Área do cliente"
   ];
-menuNavegacao.shift[2,3];
+menuNavegacao.splice(1,2);
 console.log(`Menu com os serviços removidos ${menuNavegacao}`);
