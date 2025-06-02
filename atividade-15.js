@@ -11,4 +11,4 @@ let menuNavegacao = [
     "Área do cliente"
   ];
 menuNavegacao.splice(1,2);
-console.log(`Menu com os serviços removidos ${menuNavegacao}`);
+console.log(`Menu com os serviços removidos ${menuNavegacao}`);   
