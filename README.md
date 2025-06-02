@@ -1,1 +1,15 @@
 # Lista de exercicios 02 
+## Atividades ultilizando metodos de array
+- push()
+- pop()
+- shift()
+- unshift()
+- include()
+- join()
+- slice()
+- splice()
+- concat()
+- map()
+- filter()
+- sort()
+- reverse() 
